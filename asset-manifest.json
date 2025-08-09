@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c2885b4.css",
+    "main.js": "/static/js/main.88e081e9.js",
+    "static/js/453.84ab9e80.chunk.js": "/static/js/453.84ab9e80.chunk.js",
+    "static/media/image4.jpg": "/static/media/image4.a84cc6c6fe7e87029e83.jpg",
+    "static/media/certificate3.jpeg": "/static/media/certificate3.c4554d5e0235518f18eb.jpeg",
+    "static/media/certificate1.jpeg": "/static/media/certificate1.39549666f5a095a88baf.jpeg",
+    "static/media/image2.png": "/static/media/image2.f11f60f089f76aa2cce3.png",
+    "static/media/certificate2.jpeg": "/static/media/certificate2.b38ac04f99ef32db40bc.jpeg",
+    "static/media/image1.png": "/static/media/image1.3c01c008b28b7889dc8e.png",
+    "static/media/image3.png": "/static/media/image3.e87d5d65be232f9767c5.png",
+    "static/media/Bhawesh pic.jpg": "/static/media/Bhawesh pic.35edf6e855dc4f4921a0.jpg",
+    "static/media/bhawesh_cv.pdf": "/static/media/bhawesh_cv.9e72b6de81b1df980ca7.pdf",
+    "index.html": "/index.html",
+    "main.4c2885b4.css.map": "/static/css/main.4c2885b4.css.map",
+    "main.88e081e9.js.map": "/static/js/main.88e081e9.js.map",
+    "453.84ab9e80.chunk.js.map": "/static/js/453.84ab9e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2885b4.css",
+    "static/js/main.88e081e9.js"
+  ]
+}
