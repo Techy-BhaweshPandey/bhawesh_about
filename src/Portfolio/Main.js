@@ -48,8 +48,8 @@ const projectsData = [
     title: 'Portfolio Website',
     image: i1,
     tech: ['React', 'Github'],
-    github: 'https://github.com/yourgithub/portfolio',
-    live: 'https://your-live-link.com'
+    github: 'https://github.com/Techy-BhaweshPandey/bhawesh_about',
+    live: 'https://github.com/Techy-BhaweshPandey/bhawesh_about'
   },
    {
     title: 'ParkMate',
